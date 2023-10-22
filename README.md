@@ -1,4 +1,4 @@
-### Hi there 👋 I am Zeliha
+### Hi there 👋 I am Zeliha  ✨ Frontend Developer 👩‍💻
 
 🎈 I’m Food Engineer, but I quit my job to be a developer.<br>
 👩‍💻 I’m currently learning everything about software....<br>
