@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Zeliha  ✨ Frontend Developer ✨
 
 🎈 I’m Food Engineer, but I quit my job to be a developer.<br>
-👩‍💻 I’m currently learning everything about software....<br>
-🚀 Nowadays I am working as a Frontend Developer... 👩‍💻<br>
+👩‍💻 I’m currently learning everything about software...<br>
+🚀 Nowadays I am studying as a Frontend Developer... 👩‍💻<br>
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=zlhshn&label=Profile%20views&color=0e75b6&style=flat" alt="zlhshn" /> </p>
