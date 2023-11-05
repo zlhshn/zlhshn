@@ -11,11 +11,13 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 📬 Connect with me:
  
-<a href="https://www.linkedin.com/in/zeliha-sahin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeliha-sahin/" height="30" width="40" /></a>
-</p>
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeliha-sahin/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](shn.zeliha44@gmail.com)
+
+<br>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
