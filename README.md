@@ -1,11 +1,13 @@
-### Hi there 👋 I am Zeliha  ✨ Frontend Developer ✨
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="400"></br>
+
+## Hi there 👋 I am Zeliha  ✨ Frontend Developer ✨
 
 🎈 I’m Food Engineer, but I quit my job to be a developer.<br>
 👩‍💻 I’m currently learning everything about software...<br>
-🚀 Nowadays I am studying as a Frontend Developer... 👩‍💻<br>
+🚀 Nowadays I am studying as a Frontend Developer... 👩‍💻<br><br>
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zlhshn&label=Profile%20views&color=0e75b6&style=flat" alt="zlhshn" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=zlhshn&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="zlhshn" /> </p>
 
 
 
