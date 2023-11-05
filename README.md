@@ -31,9 +31,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/></a>  
+<a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="100"height="40" /></a>  
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" height="40"/></a> 
-
 </p>
 
 <a href="https://mui.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="materialUI" height="40"/></a> 
