@@ -44,10 +44,25 @@
 
 
 
+## ✨ My Projects ✨
+<!-- <details>
+<summary markdown="span"  markdown="1">To-Do App</summary>
+[LİVE](https://zlhshn.github.io/todo_App/)
+<details>
+<summary markdown="span">Second level collapsible item</summary>
+![todo app]([to-doapp.png](https://github.com/zlhshn/todo_App/blob/main/to-doapp.png?raw=true)
+</details>
+</details>--/>
+  
+
+
+
 <!--  ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Todo App with React](https:canlı linki)| React, CSS, Local Storage, React Hooks|![todo](https://user-images.githubusercontent.com/118957608/222153239-9a73cc42-22f3-4910-bc9c-e668ec0f7494.gif) --/>
+
+
 
 
 
