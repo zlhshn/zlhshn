@@ -62,10 +62,22 @@ HTML5 CSS, Local Storage , Dom Manipulation  |![todo app](https://github.com/zlh
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-HTML5 CSS, Local Storage, Dom Manipulation |![Budget_app](https://raw.githubusercontent.com/zlhshn/budget_app_planner/main/img/budget.gif)
+HTML5, CSS3, Local Storage, Dom Manipulation |![Budget_app](https://raw.githubusercontent.com/zlhshn/budget_app_planner/main/img/budget.gif)
+
+</details>
+ <details>
+<summary markdown="span">Weather_app</summary>
+  
+[LİVE](https://zlhshn.github.io/weather_app/)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+HTML5, CSS3,Dom Manipulation,Fetch Apı |![weather_app](https://github.com/zlhshn/weather_app/blob/main/img/weather.gif?raw=true)
 
 </details>
   
+
+
 
 
 
