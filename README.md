@@ -47,13 +47,22 @@
 ## ✨ My Projects ✨
  <details>
 <summary markdown="span">To-Do App</summary>
-
- 
+  
 [LİVE](https://zlhshn.github.io/todo_App/)
-
+  
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-HTML5 CSS, Local Storage,  |![todo app](https://github.com/zlhshn/todo_App/blob/main/to-doapp.png?raw=true)
+HTML5 CSS, Local Storage , Dom Manipulation  |![todo app](https://github.com/zlhshn/todo_App/blob/main/to-doapp.png?raw=true)
+
+</details>
+ <details>
+<summary markdown="span">Budget_app_planner</summary>
+  
+[LİVE](https://zlhshn.github.io/budget_app_planner/)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+HTML5 CSS, Local Storage, Dom Manipulation |![Budget_app](https://raw.githubusercontent.com/zlhshn/budget_app_planner/main/img/budget.gif)
 
 </details>
   
