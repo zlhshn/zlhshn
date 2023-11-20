@@ -52,7 +52,7 @@
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-HTML5 CSS, Local Storage , Dom Manipulation  |![todo app](https://github.com/zlhshn/todo_App/blob/main/todo.gif?raw=true)
+HTML5, CSS ,Local Storage , Dom Manipulation  |![todo app](https://github.com/zlhshn/todo_App/blob/main/todo.gif?raw=true)
 
 </details>
  <details>
