@@ -72,7 +72,17 @@ HTML5, CSS3, Local Storage, Dom Manipulation |![Budget_app](https://raw.githubus
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-HTML5, CSS3,Dom Manipulation,Fetch Apı |![weather_app](https://github.com/zlhshn/weather_app/blob/main/img/weather.gif?raw=true)
+HTML5, CSS3, Dom Manipulation,Fetch Apı |![weather_app](https://github.com/zlhshn/weather_app/blob/main/img/weather.gif?raw=true)
+
+</details>
+ <details>
+<summary markdown="span">Coin_app</summary>
+  
+[LİVE](https://zlhshn.github.io/crypto_coin/)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+HTML5 ,JS DOM, Sass, Local Storage, Async/Await ,API |![coin](https://github.com/zlhshn/crypto_coin/blob/main/img/coinapp.gif?raw=true)
 
 </details>
   
