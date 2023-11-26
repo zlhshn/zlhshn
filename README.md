@@ -95,6 +95,16 @@ Technologies     |How does my project look
 HTML5 , Bootstrap, CSS3, JS DOM  |![checkout](https://github.com/zlhshn/checkout_page/blob/main/img/checkout.gif?raw=true)
 
 </details>
+ <details>
+<summary markdown="span">Search_country_app</summary>
+  
+[LİVE](https://zlhshn.github.io/search_country/)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+HTML5 , Bootstrap, Fetch API, JS DOM  |![country](https://github.com/zlhshn/search_country/raw/main/country.gif)
+
+</details>
   
 
 
