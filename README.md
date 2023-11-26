@@ -85,6 +85,16 @@ Technologies     |How does my project look
 HTML5 ,JS DOM, Sass, Local Storage, Async/Await ,API |![coin](https://github.com/zlhshn/crypto_coin/blob/main/img/coinapp.gif?raw=true)
 
 </details>
+ <details>
+<summary markdown="span">Checkout_page</summary>
+  
+[LİVE](https://zlhshn.github.io/checkout_page/)  
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+HTML5 , Bootstrap, CSS3, JS DOM  |![checkout](https://github.com/zlhshn/checkout_page/blob/main/img/checkout.gif?raw=true)
+
+</details>
   
 
 
