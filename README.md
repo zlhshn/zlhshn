@@ -46,9 +46,20 @@
 
 ## ✨ My Projects ✨
  <details>
+<summary markdown="span">Shop_productlist (react)</summary>
+  
+[LİVE](https://shop-productlist.vercel.app/) <br>  [Repo Link](https://github.com/zlhshn/shop_productlist)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+React , React DOM, Props, Components  |![shop_productlist](https://github.com/zlhshn/shop_productlist/blob/main/list.gif)
+
+</details>
+
+ <details>
 <summary markdown="span">To-Do App</summary>
   
-[LİVE](https://zlhshn.github.io/todo_App/)
+[LİVE](https://shop-productlist.vercel.app/)  <br>  [Repo Link](https://github.com/zlhshn/todo_App)
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
@@ -58,7 +69,7 @@ HTML5, CSS ,Local Storage , Dom Manipulation  |![todo app](https://github.com/zl
  <details>
 <summary markdown="span">Budget_app_planner</summary>
   
-[LİVE](https://zlhshn.github.io/budget_app_planner/)
+[LİVE](https://zlhshn.github.io/budget_app_planner/)  <br> [Repo Link](https://github.com/zlhshn/budget_app_planner)
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
@@ -68,7 +79,7 @@ HTML5, CSS3, Local Storage, Dom Manipulation |![Budget_app](https://raw.githubus
  <details>
 <summary markdown="span">Weather_app</summary>
   
-[LİVE](https://zlhshn.github.io/weather_app/)
+[LİVE](https://zlhshn.github.io/weather_app/) <br>  [Repo Link](https://github.com/zlhshn/weather_app)
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
@@ -78,7 +89,7 @@ HTML5, CSS3, Dom Manipulation,Fetch Apı |![weather_app](https://github.com/zlhs
  <details>
 <summary markdown="span">Coin_app</summary>
   
-[LİVE](https://zlhshn.github.io/crypto_coin/)
+[LİVE](https://zlhshn.github.io/crypto_coin/)  <br> [Repo Link](https://github.com/zlhshn/crypto_coin)
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
@@ -88,7 +99,7 @@ HTML5 ,JS DOM, Sass, Local Storage, Async/Await ,API |![coin](https://github.com
  <details>
 <summary markdown="span">Checkout_page</summary>
   
-[LİVE](https://zlhshn.github.io/checkout_page/)  
+[LİVE](https://zlhshn.github.io/checkout_page/)   <br> [Repo Link](https://github.com/zlhshn/checkout_page)
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
@@ -98,7 +109,7 @@ HTML5 , Bootstrap, CSS3, JS DOM  |![checkout](https://github.com/zlhshn/checkout
  <details>
 <summary markdown="span">Search_country_app</summary>
   
-[LİVE](https://zlhshn.github.io/search_country/)
+[LİVE](https://zlhshn.github.io/search_country/) <br> [Repo Link](https://github.com/zlhshn/search_country)
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
