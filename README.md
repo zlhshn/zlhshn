@@ -116,7 +116,17 @@ Technologies     |How does my project look
 HTML5 , Bootstrap, Fetch API, JS DOM  |![country](https://github.com/zlhshn/search_country/raw/main/country.gif)
 
 </details>
+
+ <details>
+<summary markdown="span">Bootstrap_page</summary>
   
+[LİVE](https://zlhshn.github.io/bootstrap_wp2/) <br> [Repo Link](https://github.com/zlhshn/bootstrap_wp2/tree/main)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+HTML5 , Bootstrap, Fetch API, JS DOM  |![bootstrap](https://github.com/zlhshn/bootstrap_wp2/blob/main/bootstrap.gif))
+
+</details>
 
 
 
