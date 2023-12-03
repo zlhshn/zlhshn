@@ -45,6 +45,17 @@
 
 
 ## ✨ My Projects ✨
+
+ <details>
+<summary markdown="span">Astrology_page (react)</summary>
+  
+[LİVE](https://astrology-rct.vercel.app) <br> [Repo Link](https://github.com/zlhshn/astrology_react)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+React , Sass/Scss  |![horoscope](https://github.com/zlhshn/astrology_react/blob/main/public/horoscope.gif?raw=true)
+
+</details>
  <details>
 <summary markdown="span">Shop_productlist (react)</summary>
   
