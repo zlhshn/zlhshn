@@ -57,6 +57,16 @@ React , Sass/Scss  |![horoscope](https://github.com/zlhshn/astrology_react/blob/
 
 </details>
  <details>
+<summary markdown="span">Lessons_card (react)</summary>
+  
+[LİVE](https://lessonscard-react-iuaht931s-zlhshns-projects.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/lessonscard_react)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+React.js ,UseState ,Scss/scss module  |![lesson](https://github.com/zlhshn/lessonscard_react/raw/main/lesson.gif))
+
+</details>
+ <details>
 <summary markdown="span">Shop_productlist (react)</summary>
   
 [LİVE](https://shop-productlist.vercel.app/) <br>  [Repo Link](https://github.com/zlhshn/shop_productlist)
