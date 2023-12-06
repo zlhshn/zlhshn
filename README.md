@@ -59,7 +59,7 @@ React , Sass/Scss  |![horoscope](https://github.com/zlhshn/astrology_react/blob/
  <details>
 <summary markdown="span">Lessons_card (react)</summary>
   
-[LİVE](https://lessonscard-react-iuaht931s-zlhshns-projects.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/lessonscard_react)
+[LİVE](https://lessonscard-react-zlhshns-projects.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/lessonscard_react)
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
