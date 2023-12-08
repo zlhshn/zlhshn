@@ -53,7 +53,7 @@
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-React , Sass/Scss  |![horoscope](https://github.com/zlhshn/astrology_react/blob/main/public/horoscope.gif?raw=true)
+✔React<br> ✔ Sass/Scss  |![horoscope](https://github.com/zlhshn/astrology_react/blob/main/public/horoscope.gif?raw=true)
 
 </details>
  <details>
