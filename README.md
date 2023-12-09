@@ -84,7 +84,7 @@ Technologies     |How does my project look
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-✔React.j<br>✔React Hook(UseState)<br>✔Scss/Scss-module  |![lesson](https://github.com/zlhshn/lessonscard_react/raw/main/lesson.gif))
+✔React.js<br>✔React Hook(UseState)<br>✔Scss/Scss-module  |![lesson](https://github.com/zlhshn/lessonscard_react/raw/main/lesson.gif))
 
 </details>
  <details>
