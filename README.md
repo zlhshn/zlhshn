@@ -48,7 +48,7 @@
  <details>
 <summary markdown="span">Filenin_sultanları (react)</summary>
   
-[LİVE](https://astrology-rct.vercel.app) <br> [Repo Link](https://github.com/zlhshn/volleyball-react)
+[LİVE](https://volleyball-react-zlh.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/volleyball-react)
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
