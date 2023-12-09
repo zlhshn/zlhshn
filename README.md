@@ -53,7 +53,7 @@
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-✔React<br> ✔ Sass/Scss  |![horoscope](https://github.com/zlhshn/astrology_react/blob/main/public/horoscope.gif?raw=true)
+✔React<br>✔Sass/Scss  |![horoscope](https://github.com/zlhshn/astrology_react/blob/main/public/horoscope.gif?raw=true)
 
 </details>
  <details>
@@ -63,7 +63,7 @@ Technologies     |How does my project look
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-✔React<br> ✔ Sass/Scss  |![accordion](https://github.com/zlhshn/question_acordion/blob/main/public/acordion.gif?raw=true)
+✔React<br>✔Sass/Scss  |![accordion](https://github.com/zlhshn/question_acordion/blob/main/public/acordion.gif?raw=true)
 
 </details>
 
@@ -74,7 +74,7 @@ Technologies     |How does my project look
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-React , React Form , React-Bootstrap |![form](https://github.com/zlhshn/escaped-button/blob/main/forms.gif?raw=true)
+✔React<br>✔React-Form<br>✔React-Bootstrap |![form](https://github.com/zlhshn/escaped-button/blob/main/forms.gif?raw=true)
 
 </details>
  <details>
@@ -84,7 +84,7 @@ React , React Form , React-Bootstrap |![form](https://github.com/zlhshn/escaped-
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-React.js ,UseState ,Scss/scss module  |![lesson](https://github.com/zlhshn/lessonscard_react/raw/main/lesson.gif))
+✔React.j<br>✔React Hook(UseState)<br>✔Scss/Scss-module  |![lesson](https://github.com/zlhshn/lessonscard_react/raw/main/lesson.gif))
 
 </details>
  <details>
@@ -94,7 +94,7 @@ React.js ,UseState ,Scss/scss module  |![lesson](https://github.com/zlhshn/lesso
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-React , React DOM, Props, Components  |![shop_productlist](https://github.com/zlhshn/shop_productlist/blob/main/list.gif)
+✔React.js<br>✔React DOM<br>✔Props<br>✔Components  |![shop_productlist](https://github.com/zlhshn/shop_productlist/blob/main/list.gif)
 
 </details>
 
@@ -106,7 +106,7 @@ React , React DOM, Props, Components  |![shop_productlist](https://github.com/zl
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-HTML5, CSS ,Local Storage , Dom Manipulation  |![todo app](https://github.com/zlhshn/todo_App/blob/main/todo.gif?raw=true)
+✔HTML5<br>✔CSS3<br>✔Local Storage<br>✔Dom Manipulation  |![todo app](https://github.com/zlhshn/todo_App/blob/main/todo.gif?raw=true)
 
 </details>
  <details>
@@ -116,7 +116,7 @@ HTML5, CSS ,Local Storage , Dom Manipulation  |![todo app](https://github.com/zl
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-HTML5, CSS3, Local Storage, Dom Manipulation |![Budget_app](https://raw.githubusercontent.com/zlhshn/budget_app_planner/main/img/budget.gif)
+✔HTML5<br>,✔ CSS3<br>, ✔Local Storage<br>,✔ Dom Manipulation |![Budget_app](https://raw.githubusercontent.com/zlhshn/budget_app_planner/main/img/budget.gif)
 
 </details>
  <details>
@@ -126,7 +126,7 @@ HTML5, CSS3, Local Storage, Dom Manipulation |![Budget_app](https://raw.githubus
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-HTML5, CSS3, Dom Manipulation,Fetch Apı |![weather_app](https://github.com/zlhshn/weather_app/blob/main/img/weather.gif?raw=true)
+✔HTML5<br>✔CSS3<br>✔ Dom Manipulation<br>✔Fetch Apı |![weather_app](https://github.com/zlhshn/weather_app/blob/main/img/weather.gif?raw=true)
 
 </details>
  <details>
@@ -136,7 +136,7 @@ HTML5, CSS3, Dom Manipulation,Fetch Apı |![weather_app](https://github.com/zlhs
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-HTML5 ,JS DOM, Sass, Local Storage, Async/Await ,API |![coin](https://github.com/zlhshn/crypto_coin/blob/main/img/coinapp.gif?raw=true)
+✔HTML5<br>✔Sass<br>✔JS DOM<br>✔Local Storage<br>✔Async/Await<br>✔API |![coin](https://github.com/zlhshn/crypto_coin/blob/main/img/coinapp.gif?raw=true)
 
 </details>
  <details>
@@ -146,7 +146,7 @@ HTML5 ,JS DOM, Sass, Local Storage, Async/Await ,API |![coin](https://github.com
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-HTML5 , Bootstrap, CSS3, JS DOM  |![checkout](https://github.com/zlhshn/checkout_page/blob/main/img/checkout.gif?raw=true)
+✔HTML5<br>✔JS DOM<br>✔Bootstrap<br>✔CSS3  |![checkout](https://github.com/zlhshn/checkout_page/blob/main/img/checkout.gif?raw=true)
 
 </details>
  <details>
@@ -156,7 +156,7 @@ HTML5 , Bootstrap, CSS3, JS DOM  |![checkout](https://github.com/zlhshn/checkout
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-HTML5 , Bootstrap, Fetch API, JS DOM  |![country](https://github.com/zlhshn/search_country/raw/main/country.gif)
+✔HTML5<br>✔JS DOM<br>✔Fetch API<br>✔Bootstrap  |![country](https://github.com/zlhshn/search_country/raw/main/country.gif)
 
 </details>
 
@@ -167,7 +167,7 @@ HTML5 , Bootstrap, Fetch API, JS DOM  |![country](https://github.com/zlhshn/sear
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-HTML5 , Bootstrap, Fetch API, JS DOM  |![bootstrap](https://github.com/zlhshn/bootstrap_wp2/blob/main/bootstrap.gif))
+✔HTML5<br>✔Bootstrap<br>|![bootstrap](https://github.com/zlhshn/bootstrap_wp2/blob/main/bootstrap.gif))
 
 </details>
 
