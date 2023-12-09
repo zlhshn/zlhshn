@@ -167,7 +167,7 @@ Technologies     |How does my project look
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-✔HTML5<br>✔Bootstrap<br>|![bootstrap](https://github.com/zlhshn/bootstrap_wp2/blob/main/bootstrap.gif))
+✔HTML5<br>✔Bootstrap<br>|![bootstrap](https://github.com/zlhshn/bootstrap_wp2/blob/main/bootstrap.gif)
 
 </details>
 
