@@ -57,6 +57,17 @@ Technologies     |How does my project look
 
 </details>
  <details>
+<summary markdown="span">Question_accordion (react)</summary>
+  
+[LİVE](https://question-acordion-zlh.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/question_acordion)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔React<br> ✔ Sass/Scss  |![accordion](https://github.com/zlhshn/question_acordion/blob/main/public/acordion.gif?raw=true)
+
+</details>
+
+ <details>
 <summary markdown="span">Escaped_button (react)</summary>
   
 [LİVE](https://form-react-zlh.vercel.app/) <br>  [Repo Link](https://github.com/zlhshn/escaped-button)
