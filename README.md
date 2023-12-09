@@ -63,7 +63,7 @@ Technologies     |How does my project look
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-✔React<br>✔Sass/Scss  |![accordion](https://github.com/zlhshn/question_acordion/blob/main/public/acordion.gif?raw=true)
+✔React.js<br>✔Sass/Scss  |![accordion](https://github.com/zlhshn/question_acordion/blob/main/public/acordion.gif?raw=true)
 
 </details>
 
