@@ -1,7 +1,7 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="350"></br>
 
-## Hi there 👋 I am Zeliha  ✨ Frontend Developer ✨
+## Hi there 👋 I am Zeliha   ✨Frontend Developer✨
 
 🎈 I’m Food Engineer, but I quit my job to be a developer.<br>
 👩‍💻 I’m currently learning everything about software...<br>
