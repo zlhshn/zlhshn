@@ -116,7 +116,7 @@ Technologies     |How does my project look
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-✔HTML5<br>,✔ CSS3<br>, ✔Local Storage<br>,✔ Dom Manipulation |![Budget_app](https://raw.githubusercontent.com/zlhshn/budget_app_planner/main/img/budget.gif)
+✔HTML5<br>✔ CSS3<br>✔Local Storage<br>✔Dom Manipulation |![Budget_app](https://raw.githubusercontent.com/zlhshn/budget_app_planner/main/img/budget.gif)
 
 </details>
  <details>
