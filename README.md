@@ -46,6 +46,16 @@
 
 ## ✨ My Projects ✨
  <details>
+<summary markdown="span">Movies_list (react)</summary>
+  
+[LİVE](https://movies-list-zlh.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/movies_list/tree/main)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔React.js<br>✔React-icons<br>✔React-Bootstrap<br>✔Sass/Scss |![list](https://github.com/zlhshn/movies_list/blob/main/list.gif?raw=true)
+
+</details>
+ <details>
 <summary markdown="span">Course_Appointment_app (react)</summary>
   
 [LİVE](https://course-appointment-app.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/course_appointment_app/tree/main)
