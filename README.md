@@ -45,6 +45,17 @@
 
 
 ## ✨ My Projects ✨
+
+ <details>
+<summary markdown="span">ToDo_App (react)</summary>
+  
+[LİVE](https://to-do-react-jet-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/toDo_react)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔React.js<br>✔React-icons<br>✔React Hooks(useEffect)<br>✔Uuid<br>✔Local-storage<br> |![todo](https://raw.githubusercontent.com/zlhshn/toDo_react/main/todo.gif)
+
+</details>
  <details>
 <summary markdown="span">Movies_list (react)</summary>
   
