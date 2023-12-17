@@ -57,6 +57,16 @@ Technologies     |How does my project look
 
 </details>
  <details>
+<summary markdown="span">Random_user_app (react)</summary>
+  
+[LİVE](https://user-rndm-app-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/user_rndm_app)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔React.js<br>✔React Hooks<br>✔SweetAlert2<br>✔Axios<br>✔CSS3 |![user](https://github.com/zlhshn/user_rndm_app/raw/main/random_user.gif)
+
+</details>
+ <details>
 <summary markdown="span">Movies_list (react)</summary>
   
 [LİVE](https://movies-list-zlh.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/movies_list/tree/main)
