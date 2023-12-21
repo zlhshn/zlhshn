@@ -45,6 +45,17 @@
 
 
 ## ✨ My Projects ✨
+
+ <details>
+<summary markdown="span">ShopCard_Router_Checkout(react)</summary>
+  
+[LİVE](https://shopping-card-router-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/shopping-card-router/blob/main/)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔React.js<br>✔React-Router<br>✔React-Router-Hooks<br>✔CRUD<br>✔AXİOS<br>✔SweetAlert2<br>✔Bootstrap<br> |![shop](https://github.com/zlhshn/shopping-card-router/blob/main/shopping.gif)
+
+</details>
  <details>
 <summary markdown="span">Harry_Router(react)</summary>
   
