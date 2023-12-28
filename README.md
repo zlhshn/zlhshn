@@ -47,7 +47,18 @@
 ## ✨ My Projects ✨
 
  <details>
-<summary markdown="span">ShopCard_Router_Checkout(react)</summary>
+<summary markdown="span">Store_App (react)</summary>
+  
+[LİVE](https://store-app-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/store_App)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔React.js<br>✔React-Router-dom<br>✔Context -Api<br>✔TailWind CSS<br>✔AXİOS<br>✔Session Storage<br>✔Custom Hook<br> |![store](https://github.com/zlhshn/store_App/raw/main/store.gif)
+
+</details>
+
+ <details>
+<summary markdown="span">ShopCard_Router_Checkout (react)</summary>
   
 [LİVE](https://shopping-card-router-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/shopping-card-router/blob/main/)
   
@@ -57,7 +68,7 @@ Technologies     |How does my project look
 
 </details>
  <details>
-<summary markdown="span">Harry_Router(react)</summary>
+<summary markdown="span">Harry_Router (react)</summary>
   
 [LİVE](https://harry-router.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/harry_router)
   
