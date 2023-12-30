@@ -45,7 +45,16 @@
 
 
 ## ✨ My Projects ✨
+ <details>
+<summary markdown="span">Movie_App (react)</summary>
+  
+[LİVE](https://movie-app-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/movie_app/tree/main)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔React.js<br>✔React-Router-dom<br>✔FİREBASE<br>✔Context -Api<br>✔TailWind CSS<br>✔AXİOS<br>✔React-Toastify<br>✔Custom Hook<br>✔React-Player<br> |![movie](https://github.com/zlhshn/movie_app/raw/main/moviee.gif)
 
+</details>
  <details>
 <summary markdown="span">Store_App (react)</summary>
   
