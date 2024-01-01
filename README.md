@@ -191,7 +191,7 @@ Technologies     |How does my project look
 
 
  <details>
-<summary markdown="span">To-Do App</summary>
+<summary markdown="span">To-Do App (js)</summary>
   
 [LİVE](https://shop-productlist.vercel.app/)  <br>  [Repo Link](https://github.com/zlhshn/todo_App)
   
@@ -201,7 +201,7 @@ Technologies     |How does my project look
 
 </details>
  <details>
-<summary markdown="span">Budget_app_planner</summary>
+<summary markdown="span">Budget_app_planner (js)</summary>
   
 [LİVE](https://zlhshn.github.io/budget_app_planner/)  <br> [Repo Link](https://github.com/zlhshn/budget_app_planner)
   
@@ -211,7 +211,7 @@ Technologies     |How does my project look
 
 </details>
  <details>
-<summary markdown="span">Weather_app</summary>
+<summary markdown="span">Weather_app (js)</summary>
   
 [LİVE](https://zlhshn.github.io/weather_app/) <br>  [Repo Link](https://github.com/zlhshn/weather_app)
   
@@ -221,7 +221,7 @@ Technologies     |How does my project look
 
 </details>
  <details>
-<summary markdown="span">Coin_app</summary>
+<summary markdown="span">Coin_app (js)</summary>
   
 [LİVE](https://zlhshn.github.io/crypto_coin/)  <br> [Repo Link](https://github.com/zlhshn/crypto_coin)
   
@@ -231,7 +231,7 @@ Technologies     |How does my project look
 
 </details>
  <details>
-<summary markdown="span">Checkout_page</summary>
+<summary markdown="span">Checkout_page (js)</summary>
   
 [LİVE](https://zlhshn.github.io/checkout_page/)   <br> [Repo Link](https://github.com/zlhshn/checkout_page)
   
@@ -241,7 +241,7 @@ Technologies     |How does my project look
 
 </details>
  <details>
-<summary markdown="span">Search_country_app</summary>
+<summary markdown="span">Search_country_app (js)</summary>
   
 [LİVE](https://zlhshn.github.io/search_country/) <br> [Repo Link](https://github.com/zlhshn/search_country)
   
