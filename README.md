@@ -56,6 +56,16 @@ Technologies     |How does my project look
 
 </details>
  <details>
+<summary markdown="span">Tasklist_App (redux)</summary>
+  
+[LİVE](https://to-do-redux-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/toDo_redux)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔React.js<br>✔React-Redux<br>✔CSS3<br> |![task](https://github.com/zlhshn/toDo_redux/blob/main/redux-todo.gif)
+
+</details>
+ <details>
 <summary markdown="span">Store_App (react)</summary>
   
 [LİVE](https://store-app-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/store_App)
