@@ -45,6 +45,17 @@
 
 
 ## ✨ My Projects ✨
+
+ <details>
+<summary markdown="span">Recipe_App (react)</summary>
+  
+[LİVE](https://recipe-app-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/recipe_App/blob/main/)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔React.js<br>✔React-Router-dom<br>✔FİREBASE<br>✔Context -Api<br>✔Material UI<br>✔AXİOS<br>✔Pagination |![recipe](https://github.com/zlhshn/recipe_App/raw/main/recipe.gif)
+
+</details>
  <details>
 <summary markdown="span">Movie_App (react)</summary>
   
