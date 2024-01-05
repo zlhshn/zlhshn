@@ -46,6 +46,17 @@
 
 ## ✨ My Projects ✨
 
+
+ <details>
+<summary markdown="span">Tasklist_App (redux)</summary>
+  
+[LİVE](https://to-do-redux-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/toDo_redux)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔React.js<br>✔React-Redux<br>✔CSS3<br> |![task](https://github.com/zlhshn/toDo_redux/blob/main/redux-todo.gif)
+
+</details>
  <details>
 <summary markdown="span">Recipe_App (react)</summary>
   
@@ -66,16 +77,7 @@ Technologies     |How does my project look
 ✔React.js<br>✔React-Router-dom<br>✔FİREBASE<br>✔Context -Api<br>✔TailWind CSS<br>✔AXİOS<br>✔React-Toastify<br>✔Custom Hook<br>✔React-Player<br> |![movie](https://github.com/zlhshn/movie_app/raw/main/moviee.gif)
 
 </details>
- <details>
-<summary markdown="span">Tasklist_App (redux)</summary>
-  
-[LİVE](https://to-do-redux-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/toDo_redux)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React-Redux<br>✔CSS3<br> |![task](https://github.com/zlhshn/toDo_redux/blob/main/redux-todo.gif)
 
-</details>
  <details>
 <summary markdown="span">Store_App (react)</summary>
   
