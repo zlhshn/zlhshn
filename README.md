@@ -46,7 +46,16 @@
 
 ## ✨ My Projects ✨
 
+ <details>
+<summary markdown="span">Stock_Management (redux)</summary>
+  
+[LİVE](https://stock-app-zlhshn.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/stock_app)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔ React.js<br>✔ React-redux<br>✔ Redux/Toolkit<br>✔ React-Router-Dom<br>✔ Redux-Persist<br>✔ React-toastify<br>✔ Yup -Formik<br>✔ Axios<br>✔ React-Tremor<br>✔ Material UI<br>✔ MUI DataGrid<br>✔ Daisy UI<br>✔ Tailwind CSS<br>✔ CRUD Operation<br>✔ REST API<br>✔ POSTMAN<br>✔ Redux DevTool|![stock](https://github.com/zlhshn/stock_app/raw/main/stock.gif)
 
+</details>
  <details>
 <summary markdown="span">Tasklist_App (redux)</summary>
   
