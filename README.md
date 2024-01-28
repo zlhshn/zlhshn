@@ -45,7 +45,16 @@
 
 
 ## ✨ My Projects ✨
+ <details>
+<summary markdown="span">Blog_App (redux)</summary>
+  
+[LİVE](https://blog-app-zlhshn.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/blog_app)
+  
+Technologies     |How does my project look   
+:-------------------------|-------------------------|
+✔ React.js<br>✔ React-redux<br>✔ Redux/Toolkit<br>✔ React-Router-Dom<br>✔ Redux-Persist<br>✔ React-toastify<br>✔ Yup -Formik<br>✔ Axios<br>✔ Tailwind CSS<br>✔ Prime React<br>✔ CRUD Operation<br>✔ REST API<br>✔ POSTMAN<br>✔ Redux DevTool|![blog](https://github.com/zlhshn/blog_app/raw/main/blog.gif)
 
+</details>
  <details>
 <summary markdown="span">Stock_Management (redux)</summary>
   
