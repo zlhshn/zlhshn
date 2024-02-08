@@ -48,7 +48,7 @@
  <details>
 <summary markdown="span">Blog_App (redux)</summary>
   
-[LİVE](https://blog-app-zlhshn.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/blog_app)
+[LİVE](https://blog-app-zlhshn.vercel.app/)<br>[Repo Link](https://github.com/zlhshn/blog_app)
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
