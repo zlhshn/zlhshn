@@ -52,7 +52,7 @@
   
 Technologies     |How does my project look   
 :-------------------------|-------------------------|
-✔ React.js<br>✔ React-redux<br>✔ Redux/Toolkit<br>✔ React-Router-Dom<br>✔ Redux-Persist<br>✔ React-toastify<br>✔ Yup -Formik<br>✔ Axios<br>✔ Tailwind CSS<br>✔ Prime React<br>✔ CRUD Operation<br>✔ REST API<br>✔ POSTMAN<br>✔ Redux DevTool|![blog](https://github.com/zlhshn/blog_app/raw/main/blog.gif)
+✔ React.js<br>✔ React-redux<br>✔ Redux/Toolkit<br>✔ React-Router-Dom<br>✔ Redux-Persist<br>✔ React-toastify<br>✔ Yup-Formik<br>✔ Axios<br>✔ Tailwind CSS<br>✔ Prime React<br>✔ CRUD Operation<br>✔ REST API<br>✔ POSTMAN<br>✔ Redux DevTool|![blog](https://github.com/zlhshn/blog_app/raw/main/blog.gif)
 
 </details>
  <details>
