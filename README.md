@@ -45,8 +45,8 @@
 
 ## ✨ My Projects ✨
 
-  Project Name/Live Link       |Libraries and Technologies     |Repo Link       
-:-------------------------|-------------------------|-----------------------------
+| Project Name / Live Link          | Libraries and Technologies      | Project Repo Link                    |
+|-----------------------------|--------------------------------------|---------------------------|
 [Blog_App](https://blog-app-zlhshn.vercel.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup-Formik, Axios, Tailwind CSS, Prime React, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](https://github.com/zlhshn/blog_app)
 [Stock_Management](https://stock-app-zlhshn.vercel.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup -Formik, Axios, React-Tremor, Material UI, MUI DataGrid, Daisy UI, Tailwind CSS, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](https://github.com/zlhshn/stock_app)
 [Tasklist_App](https://to-do-redux-zlh.vercel.app/) |React.js, React-Redux, CSS3  | [Repo Link](https://github.com/zlhshn/toDo_redux)
@@ -56,13 +56,11 @@
 [ShopCard_Router_Checkout](https://shopping-card-router-zlh.vercel.app/) |React.js, React-Router, React-Router-Hooks, CRUD, AXİOS, SweetAlert2, Bootstrap  | [Repo Link](https://github.com/zlhshn/shopping-card-router/blob/main/)
 [Harry_Router](https://harry-router.vercel.app/) |React.js, React-Router, React-icons, Sass/Scss   | [Repo Link](https://github.com/zlhshn/harry_router)
 [ToDo_App](https://to-do-react-jet-zlh.vercel.app/) | React.js, React-icons, React Hooks(useEffect), Uuid,  Local-storage | [Repo Link](https://github.com/zlhshn/toDo_react)
-[Random_user_app](https://user-rndm-app-zlh.vercel.app/) |React.js, React Hooks, SweetAlert2, Axios, CSS3  | [Repo Link](https://github.com/zlhshn/user_rndm_app)
 [Movies_list](https://movies-list-zlh.vercel.app/) |React.js, React-icons, React-Bootstrap, Sass/Scss  | [Repo Link](https://github.com/zlhshn/movies_list/tree/main)
 [Course_Appointment_app](https://course-appointment-app.vercel.app/) |React.js, React Hook(useState), React-Bootstrap, Lifting State Up  | [Repo Link](https://github.com/zlhshn/course_appointment_app/tree/main)
 [Filenin_sultanları](https://volleyball-react-zlh.vercel.app/) |  React.js, React-Bootstrap, Conditional Rendering, React Hook(useState)    | [Repo Link](https://github.com/zlhshn/volleyball-react)
 [Astrology_page](https://astrology-rct.vercel.app) | React, Sass/Scss     | [Repo Link](https://github.com/zlhshn/astrology_react)
 [Question_accordion ](https://question-acordion-zlh.vercel.app/) |  React.js, React Hook(useState)    | [Repo Link](https://github.com/zlhshn/question_acordion)
-[Lessons_card](https://lessonscard-react-zlhshns-projects.vercel.app/) | React.js, React Hook(UseState), Scss/Scss-module      | [Repo Link](https://github.com/zlhshn/lessonscard_react)
 [Shop_productlist](https://shop-productlist.vercel.app/) |  React.js, React DOM, Props, Components     | [Repo Link](https://github.com/zlhshn/shop_productlist)
 [To-Do App ](https://shop-productlist.vercel.app/) | HTML5, CSS3, Local Storage, Dom Manipulation     | [Repo Link](https://github.com/zlhshn/todo_App)
 [Budget_app_planner](https://zlhshn.github.io/budget_app_planner/) |  HTML5, CSS3, Local Storage, Dom Manipulation     | [Repo Link](https://github.com/zlhshn/budget_app_planner)
@@ -70,7 +68,7 @@
 [Coin_app](https://zlhshn.github.io/crypto_coin/)  | HTML5, Sass, JS DOM, Local Storage, Async/Await, API    | [Repo Link](https://github.com/zlhshn/crypto_coin)
 [Checkout_page](https://zlhshn.github.io/checkout_page/) |  HTML5, JS DOM, Fetch API, Bootstrap ,CSS3   | [Repo Link](https://github.com/zlhshn/checkout_page)
 [Search_country_app](https://zlhshn.github.io/search_country/)  | HTML5, JS DOM, Fetch API, Bootstrap     | [Repo Link](https://github.com/zlhshn/search_country)
-[Bootstrap_page](https://zlhshn.github.io/bootstrap_wp2/)|HTML5, Bootstrap |[Repo Link](https://github.com/zlhshn/bootstrap_wp2/tree/main) 
+[Bootstrap_page](https://zlhshn.github.io/bootstrap_wp2/)|HTML5, Bootstrap |[Repo Link](https://github.com/zlhshn/bootstrap_wp2/tree/main)  
 
 
 
