@@ -43,274 +43,36 @@
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="gitHub" height="40"/></a> 
 
 
-
 ## ✨ My Projects ✨
- <details>
-<summary markdown="span">Blog_App (redux)</summary>
-  
-[LİVE](https://blog-app-zlhshn.vercel.app/)<br>[Repo Link](https://github.com/zlhshn/blog_app)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔ React.js<br>✔ React-redux<br>✔ Redux/Toolkit<br>✔ React-Router-Dom<br>✔ Redux-Persist<br>✔ React-toastify<br>✔ Yup-Formik<br>✔ Axios<br>✔ Tailwind CSS<br>✔ Prime React<br>✔ CRUD Operation<br>✔ REST API<br>✔ POSTMAN<br>✔ Redux DevTool|![blog](https://github.com/zlhshn/blog_app/raw/main/blog.gif)
 
-</details>
- <details>
-<summary markdown="span">Stock_Management (redux)</summary>
-  
-[LİVE](https://stock-app-zlhshn.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/stock_app)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔ React.js<br>✔ React-redux<br>✔ Redux/Toolkit<br>✔ React-Router-Dom<br>✔ Redux-Persist<br>✔ React-toastify<br>✔ Yup -Formik<br>✔ Axios<br>✔ React-Tremor<br>✔ Material UI<br>✔ MUI DataGrid<br>✔ Daisy UI<br>✔ Tailwind CSS<br>✔ CRUD Operation<br>✔ REST API<br>✔ POSTMAN<br>✔ Redux DevTool|![stock](https://github.com/zlhshn/stock_app/raw/main/stock.gif)
-
-</details>
- <details>
-<summary markdown="span">Tasklist_App (redux)</summary>
-  
-[LİVE](https://to-do-redux-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/toDo_redux)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React-Redux<br>✔CSS3<br> |![task](https://github.com/zlhshn/toDo_redux/blob/main/redux-todo.gif)
-
-</details>
- <details>
-<summary markdown="span">Recipe_App (react)</summary>
-  
-[LİVE](https://recipe-app-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/recipe_App/blob/main/)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React-Router-dom<br>✔FİREBASE<br>✔Context -Api<br>✔Material UI<br>✔AXİOS<br>✔Pagination |![recipe](https://github.com/zlhshn/recipe_App/raw/main/recipe.gif)
-
-</details>
- <details>
-<summary markdown="span">Movie_App (react)</summary>
-  
-[LİVE](https://movie-app-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/movie_app/tree/main)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React-Router-dom<br>✔FİREBASE<br>✔Context -Api<br>✔TailWind CSS<br>✔AXİOS<br>✔React-Toastify<br>✔Custom Hook<br>✔React-Player<br> |![movie](https://github.com/zlhshn/movie_app/raw/main/moviee.gif)
-
-</details>
-
- <details>
-<summary markdown="span">Store_App (react)</summary>
-  
-[LİVE](https://store-app-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/store_App)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React-Router-dom<br>✔Context -Api<br>✔TailWind CSS<br>✔AXİOS<br>✔Session Storage<br>✔Custom Hook<br> |![store](https://github.com/zlhshn/store_App/raw/main/store.gif)
-
-</details>
-
- <details>
-<summary markdown="span">ShopCard_Router_Checkout (react)</summary>
-  
-[LİVE](https://shopping-card-router-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/shopping-card-router/blob/main/)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React-Router<br>✔React-Router-Hooks<br>✔CRUD<br>✔AXİOS<br>✔SweetAlert2<br>✔Bootstrap<br> |![shop](https://github.com/zlhshn/shopping-card-router/blob/main/shopping.gif)
-
-</details>
- <details>
-<summary markdown="span">Harry_Router (react)</summary>
-  
-[LİVE](https://harry-router.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/harry_router)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React-Router<br>✔React-icons<br>✔Sass/Scss<br> |![todo](https://github.com/zlhshn/harry_router/raw/main/harry.gif)
-
-</details>
- <details>
-<summary markdown="span">ToDo_App (react)</summary>
-  
-[LİVE](https://to-do-react-jet-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/toDo_react)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React-icons<br>✔React Hooks(useEffect)<br>✔Uuid<br>✔Local-storage<br> |![todo](https://raw.githubusercontent.com/zlhshn/toDo_react/main/todo.gif)
-
-</details>
- <details>
-<summary markdown="span">Random_user_app (react)</summary>
-  
-[LİVE](https://user-rndm-app-zlh.vercel.app/)<br> [Repo Link](https://github.com/zlhshn/user_rndm_app)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React Hooks<br>✔SweetAlert2<br>✔Axios<br>✔CSS3 |![user](https://github.com/zlhshn/user_rndm_app/raw/main/random_user.gif)
-
-</details>
- <details>
-<summary markdown="span">Movies_list (react)</summary>
-  
-[LİVE](https://movies-list-zlh.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/movies_list/tree/main)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React-icons<br>✔React-Bootstrap<br>✔Sass/Scss |![list](https://github.com/zlhshn/movies_list/blob/main/list.gif?raw=true)
-
-</details>
- <details>
-<summary markdown="span">Course_Appointment_app (react)</summary>
-  
-[LİVE](https://course-appointment-app.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/course_appointment_app/tree/main)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React Hook(useState)<br>✔React-Bootstrap<br>✔Lifting State Up |![appointment](https://github.com/zlhshn/course_appointment_app/blob/main/app.gif?raw=true)
-
-</details>
-
- <details>
-<summary markdown="span">Filenin_sultanları (react)</summary>
-  
-[LİVE](https://volleyball-react-zlh.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/volleyball-react)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React-Bootstrap<br>✔Conditional Rendering<br>✔React Hook(useState)<br>|![voleyball](https://github.com/zlhshn/volleyball-react/blob/main/voleybal.gif?raw=true)
-
-</details>
- <details>
-<summary markdown="span">Astrology_page (react)</summary>
-  
-[LİVE](https://astrology-rct.vercel.app) <br> [Repo Link](https://github.com/zlhshn/astrology_react)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React<br>✔Sass/Scss  |![horoscope](https://github.com/zlhshn/astrology_react/blob/main/public/horoscope.gif?raw=true)
-
-</details>
- <details>
-<summary markdown="span">Question_accordion (react)</summary>
-  
-[LİVE](https://question-acordion-zlh.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/question_acordion)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React Hook(useState) |![accordion](https://github.com/zlhshn/question_acordion/blob/main/public/acordion.gif?raw=true)
-
-</details>
-
- <details>
-<summary markdown="span">Escaped_button (react)</summary>
-  
-[LİVE](https://form-react-zlh.vercel.app/) <br>  [Repo Link](https://github.com/zlhshn/escaped-button)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React<br>✔React-Form<br>✔React-Bootstrap |![form](https://github.com/zlhshn/escaped-button/blob/main/forms.gif?raw=true)
-
-</details>
- <details>
-<summary markdown="span">Lessons_card (react)</summary>
-  
-[LİVE](https://lessonscard-react-zlhshns-projects.vercel.app/) <br> [Repo Link](https://github.com/zlhshn/lessonscard_react)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React Hook(UseState)<br>✔Scss/Scss-module  |![lesson](https://github.com/zlhshn/lessonscard_react/raw/main/lesson.gif))
-
-</details>
- <details>
-<summary markdown="span">Shop_productlist (react)</summary>
-  
-[LİVE](https://shop-productlist.vercel.app/) <br>  [Repo Link](https://github.com/zlhshn/shop_productlist)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔React.js<br>✔React DOM<br>✔Props<br>✔Components  |![shop_productlist](https://github.com/zlhshn/shop_productlist/blob/main/list.gif)
-
-</details>
+  Project Name/Live Link       |Libraries and Technologies     |Repo Link       
+:-------------------------|-------------------------|-----------------------------
+[Blog_App](https://blog-app-zlhshn.vercel.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup-Formik, Axios, Tailwind CSS, Prime React, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](https://github.com/zlhshn/blog_app)
+[Stock_Management](https://stock-app-zlhshn.vercel.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup -Formik, Axios, React-Tremor, Material UI, MUI DataGrid, Daisy UI, Tailwind CSS, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](https://github.com/zlhshn/stock_app)
+[Tasklist_App](https://to-do-redux-zlh.vercel.app/) |React.js, React-Redux, CSS3  | [Repo Link](https://github.com/zlhshn/toDo_redux)
+[Recipe_App](https://recipe-app-zlh.vercel.app/) | React.js, React-Router-dom, FİREBASE, Context-Api, Material UI, AXİOS, Pagination  |   [Repo Link](https://github.com/zlhshn/recipe_App/blob/main/)
+[Movie_App](https://movie-app-zlh.vercel.app/) | React.js, React-Router-dom, FİREBASE, Context -Api, TailWind CSS, AXİOS, React-Toastify, Custom Hook, React-Player |   [Repo Link](https://github.com/zlhshn/movie_app/tree/main)
+[Store_App](https://store-app-zlh.vercel.app/) | React.js, React-Router-dom, Context -Api, TailWind CSS, AXİOS, Session Storage, Custom Hook | [Repo Link](https://github.com/zlhshn/store_App)
+[ShopCard_Router_Checkout](https://shopping-card-router-zlh.vercel.app/) |React.js, React-Router, React-Router-Hooks, CRUD, AXİOS, SweetAlert2, Bootstrap  | [Repo Link](https://github.com/zlhshn/shopping-card-router/blob/main/)
+[Harry_Router](https://harry-router.vercel.app/) |React.js, React-Router, React-icons, Sass/Scss   | [Repo Link](https://github.com/zlhshn/harry_router)
+[ToDo_App](https://to-do-react-jet-zlh.vercel.app/) | React.js, React-icons, React Hooks(useEffect), Uuid,  Local-storage | [Repo Link](https://github.com/zlhshn/toDo_react)
+[Random_user_app](https://user-rndm-app-zlh.vercel.app/) |React.js, React Hooks, SweetAlert2, Axios, CSS3  | [Repo Link](https://github.com/zlhshn/user_rndm_app)
+[Movies_list](https://movies-list-zlh.vercel.app/) |React.js, React-icons, React-Bootstrap, Sass/Scss  | [Repo Link](https://github.com/zlhshn/movies_list/tree/main)
+[Course_Appointment_app](https://course-appointment-app.vercel.app/) |React.js, React Hook(useState), React-Bootstrap, Lifting State Up  | [Repo Link](https://github.com/zlhshn/course_appointment_app/tree/main)
+[Filenin_sultanları](https://volleyball-react-zlh.vercel.app/) |  React.js, React-Bootstrap, Conditional Rendering, React Hook(useState)    | [Repo Link](https://github.com/zlhshn/volleyball-react)
+[Astrology_page](https://astrology-rct.vercel.app) | React, Sass/Scss     | [Repo Link](https://github.com/zlhshn/astrology_react)
+[Question_accordion ](https://question-acordion-zlh.vercel.app/) |  React.js, React Hook(useState)    | [Repo Link](https://github.com/zlhshn/question_acordion)
+[Lessons_card](https://lessonscard-react-zlhshns-projects.vercel.app/) | React.js, React Hook(UseState), Scss/Scss-module      | [Repo Link](https://github.com/zlhshn/lessonscard_react)
+[Shop_productlist](https://shop-productlist.vercel.app/) |  React.js, React DOM, Props, Components     | [Repo Link](https://github.com/zlhshn/shop_productlist)
+[To-Do App ](https://shop-productlist.vercel.app/) | HTML5, CSS3, Local Storage, Dom Manipulation     | [Repo Link](https://github.com/zlhshn/todo_App)
+[Budget_app_planner](https://zlhshn.github.io/budget_app_planner/) |  HTML5, CSS3, Local Storage, Dom Manipulation     | [Repo Link](https://github.com/zlhshn/budget_app_planner)
+[Weather_app](https://zlhshn.github.io/weather_app/) | HTML5, CSS3, Dom Manipulation, Fetch Apı    | [Repo Link](https://github.com/zlhshn/weather_app)
+[Coin_app](https://zlhshn.github.io/crypto_coin/)  | HTML5, Sass, JS DOM, Local Storage, Async/Await, API    | [Repo Link](https://github.com/zlhshn/crypto_coin)
+[Checkout_page](https://zlhshn.github.io/checkout_page/) |  HTML5, JS DOM, Fetch API, Bootstrap ,CSS3   | [Repo Link](https://github.com/zlhshn/checkout_page)
+[Search_country_app](https://zlhshn.github.io/search_country/)  | HTML5, JS DOM, Fetch API, Bootstrap     | [Repo Link](https://github.com/zlhshn/search_country)
+[Bootstrap_page](https://zlhshn.github.io/bootstrap_wp2/)|HTML5, Bootstrap |[Repo Link](https://github.com/zlhshn/bootstrap_wp2/tree/main) 
 
 
- <details>
-<summary markdown="span">To-Do App (js)</summary>
-  
-[LİVE](https://shop-productlist.vercel.app/)  <br>  [Repo Link](https://github.com/zlhshn/todo_App)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔HTML5<br>✔CSS3<br>✔Local Storage<br>✔Dom Manipulation  |![todo app](https://github.com/zlhshn/todo_App/blob/main/todo.gif?raw=true)
-
-</details>
- <details>
-<summary markdown="span">Budget_app_planner (js)</summary>
-  
-[LİVE](https://zlhshn.github.io/budget_app_planner/)  <br> [Repo Link](https://github.com/zlhshn/budget_app_planner)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔HTML5<br>✔ CSS3<br>✔Local Storage<br>✔Dom Manipulation |![Budget_app](https://raw.githubusercontent.com/zlhshn/budget_app_planner/main/img/budget.gif)
-
-</details>
- <details>
-<summary markdown="span">Weather_app (js)</summary>
-  
-[LİVE](https://zlhshn.github.io/weather_app/) <br>  [Repo Link](https://github.com/zlhshn/weather_app)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔HTML5<br>✔CSS3<br>✔ Dom Manipulation<br>✔Fetch Apı |![weather_app](https://github.com/zlhshn/weather_app/blob/main/img/weather.gif?raw=true)
-
-</details>
- <details>
-<summary markdown="span">Coin_app (js)</summary>
-  
-[LİVE](https://zlhshn.github.io/crypto_coin/)  <br> [Repo Link](https://github.com/zlhshn/crypto_coin)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔HTML5<br>✔Sass<br>✔JS DOM<br>✔Local Storage<br>✔Async/Await<br>✔API |![coin](https://github.com/zlhshn/crypto_coin/blob/main/img/coinapp.gif?raw=true)
-
-</details>
- <details>
-<summary markdown="span">Checkout_page (js)</summary>
-  
-[LİVE](https://zlhshn.github.io/checkout_page/)   <br> [Repo Link](https://github.com/zlhshn/checkout_page)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔HTML5<br>✔JS DOM<br>✔Bootstrap<br>✔CSS3  |![checkout](https://github.com/zlhshn/checkout_page/blob/main/img/checkout.gif?raw=true)
-
-</details>
- <details>
-<summary markdown="span">Search_country_app (js)</summary>
-  
-[LİVE](https://zlhshn.github.io/search_country/) <br> [Repo Link](https://github.com/zlhshn/search_country)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔HTML5<br>✔JS DOM<br>✔Fetch API<br>✔Bootstrap  |![country](https://github.com/zlhshn/search_country/raw/main/country.gif)
-
-</details>
-
- <details>
-<summary markdown="span">Bootstrap_page</summary>
-  
-[LİVE](https://zlhshn.github.io/bootstrap_wp2/) <br> [Repo Link](https://github.com/zlhshn/bootstrap_wp2/tree/main)
-  
-Technologies     |How does my project look   
-:-------------------------|-------------------------|
-✔HTML5<br>✔Bootstrap<br>|![bootstrap](https://github.com/zlhshn/bootstrap_wp2/blob/main/bootstrap.gif)
-
-</details>
-
-
-
-
-
-<!-- ## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[Todo App with React](https:canlı linki)| React, CSS, Local Storage, React Hooks|![todo](https://user-images.githubusercontent.com/118957608/222153239-9a73cc42-22f3-4910-bc9c-e668ec0f7494.gif) -->
 
 
 
