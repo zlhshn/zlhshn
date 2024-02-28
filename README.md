@@ -50,7 +50,6 @@
 [Blog_App](https://blog-app-zlhshn.vercel.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup-Formik, Axios, Tailwind CSS, Prime React, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](https://github.com/zlhshn/blog_app)
 [Stock_Management](https://stock-app-zlhshn.vercel.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup -Formik, Axios, React-Tremor, Material UI, MUI DataGrid, Daisy UI, Tailwind CSS, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](https://github.com/zlhshn/stock_app)
 [Netflix_App](https://netflix-zlhshn.vercel.app/) | Next.js, Redux/Toolkit, Axios, Firebase, Rest API, Tailwind CSS | [Repo Link](https://github.com/zlhshn/netflix_next.Js)
-[Tasklist_App](https://to-do-redux-zlh.vercel.app/) |React.js, React-Redux, CSS3  | [Repo Link](https://github.com/zlhshn/toDo_redux)
 [Recipe_App](https://recipe-app-zlh.vercel.app/) | React.js, React-Router-dom, FİREBASE, Context-Api, Material UI, AXİOS, Pagination  |   [Repo Link](https://github.com/zlhshn/recipe_App/blob/main/)
 [Movie_App](https://movie-app-zlh.vercel.app/) | React.js, React-Router-dom, FİREBASE, Context -Api, TailWind CSS, AXİOS, React-Toastify, Custom Hook, React-Player |   [Repo Link](https://github.com/zlhshn/movie_app/tree/main)
 [Store_App](https://store-app-zlh.vercel.app/) | React.js, React-Router-dom, Context -Api, TailWind CSS, AXİOS, Session Storage, Custom Hook | [Repo Link](https://github.com/zlhshn/store_App)
