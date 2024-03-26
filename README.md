@@ -46,6 +46,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%0FA455.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Cypress Badge](https://img.shields.io/badge/cypress-%2338B2AC.svg?style=for-the-badge&logo=cypress&logoColor=white)
 <br>
 <br>
 <!-- <br>
